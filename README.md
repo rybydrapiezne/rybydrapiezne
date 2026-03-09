@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Szymon and I'm a CS Master's Student and Unity Developer, from Poland</h2>
+<h2 align="left">Hi 👋! My name is Szymon and I'm a CS Master's Student, Software Developer and Unity Developer, from Poland</h2>
 
 ###
 
